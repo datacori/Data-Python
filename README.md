@@ -73,6 +73,10 @@ Floor division: //
 
 Exponentiation: **
 
+Absolute value: abs()
+
+Square: pow()
+
 Example
 
 ```python
@@ -85,6 +89,8 @@ print(a / b)  # 2.3333...
 print(a % b)  # 1
 print(a // b) # 2
 print(a ** b) # 343
+print(abs(a)) #7
+print(pow(a,b)) #343
 ```
 
 ---
