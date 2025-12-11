@@ -1,4 +1,5 @@
 📘 Python Strings — Study Notes (2025-12-11)
+
 🎯 Learning Goals
 
 Understanding string data types
@@ -11,22 +12,23 @@ String formatting
 
 Practicing related string functions
 
+---
+
 🔤 String Data Type — Creating Strings
 ▶ Creating a String with Double Quotes
 
-python
+```python
 word = "hi"
 print(word)
-
+```
 Output:
 hi
 
 ▶ Using Single Quotes Inside Double Quotes
-python
+```python
 print("I'm Korean")
-
-Output:
-I'm Korean
+```
+---
 
 
 
