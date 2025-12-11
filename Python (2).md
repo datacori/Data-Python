@@ -164,8 +164,7 @@ print(sentence[-1])  # reverse index
 !
 ```
 ---
-String Slicing in Python
-11. What is String Slicing?
+## String Slicing in Python
 
 String slicing allows you to extract a specific range of characters from a string using the slice operator :.
 
@@ -197,7 +196,8 @@ Format specifiers:
 
 %c — single character
 
-%s — string
+%s - string
+
 ---
 
 Example 1 — Insert an Integer
@@ -224,7 +224,7 @@ print(sentence)
 
 Python’s format() function allows you to insert values into a string by placing {} placeholders inside the text.
 
-Key Points
+## Key Points
 
 Write {} inside the string, then call .format(value) after the string.
 
@@ -246,7 +246,7 @@ print("나는 {0}호선을 타고 다녀.".format(1))
 
 ## Useful String Functions in Python
 
-##len(x) — Get String Length
+## len(x) — Get String Length
 
 Returns the number of characters in the string.
 ```python
@@ -328,27 +328,28 @@ print(sentence)
 ---
 
 # Key Learnings
-- 문자열 자료형 (string)
-- 함수 작성 능력 향상
+- String data type
+- Improved ability to write functions
 
 ---
 
 # Reflections
-- 공부 2일차: `print()` 함수 사용에 익숙해짐  
-- GitHub 사용 방법을 조금 알게 됨  
-- 변수를 함수에 넣는 건 아직 새로움  
-- 시도해보기 전에 포기란 없다! Keep going!  
+- Day 2 of study: Became more familiar with using the `print()` function  
+- Learned a bit about how to use GitHub  
+- Still getting used to putting variables into functions  
+- Never give up before trying! Keep going!  
 
 ---
 
 # Resources
 - Handbook_Python_Final.pdf  
-- 패스트 캠퍼스 - 실패 없이 완주하는 파이썬 데이터 분석 입문  
+- Fast Campus – Complete Python Data Analysis for Beginners  
 
 ---
 
 # Author
 **RYU YEJIN**  
-데이터 분석 학습 중 | Python 기초부터 실무 프로젝트까지 기록  
-📧 datacori00@gmail.com
+Currently studying data analysis 
+Recording progress from Python basics to real-world projects  
+E-mail : datacori00@gmail.com
 
