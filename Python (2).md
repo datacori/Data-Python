@@ -131,7 +131,6 @@ print(sentence)
 
 ## String Indexing in Python
 
-What is String Indexing?
 
 String indexing allows you to select a single character from a string using square brackets [].
 
