@@ -1,6 +1,6 @@
-📘 Python Strings — Study Notes (2025-12-11)
+## Python Strings — Study Notes (2025-12-11)
 
-🎯 Learning Goals
+## Learning Goals
 
 Understanding string data types
 
@@ -19,14 +19,14 @@ Practicing related string functions
 
 ```python
 word = "hi"
-print(word)
+print(word) 
+# hi
 ```
-Output:
-hi
 
 ▶ Using Single Quotes Inside Double Quotes
 ```python
 print("I'm Korean")
+# I'm Korean
 ```
 ---
 
