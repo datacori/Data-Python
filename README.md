@@ -131,4 +131,4 @@ Learning Data Analysis
 Recording progress from Python basics to practical projects
 
 Email: datacori00@gmail.com
-
+Blog: https://blog.naver.com/datacori/224105207120
