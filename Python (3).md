@@ -80,9 +80,6 @@ print(my_list[4][2])
 ```text
 [7, 8]
 ```
-my_list[4] → [5, 6, [7, 8]]
-
-my_list[4][2] → [7, 8]
 ---
 
 3. Access a value inside a nested list
@@ -92,7 +89,6 @@ print(my_list[4][2][0])
 ```text
 7
 ```
-my_list[4][2][0] accesses the first element of [7, 8]
 ---
 
 ## Notes
@@ -101,7 +97,6 @@ Indexing allows precise access to elements
 
 Nested indexing is useful for working with complex data structures
 
-Understanding indexing is essential for data manipulation in Python
 ---
 
 ## Slicing
@@ -130,8 +125,8 @@ print(my_list[2:4])
 ## Explanation
 
 my_list[2:4] selects elements from index 2 up to (but not including) index 4
-
 This returns the elements at index 2 and 3
+
 ---
 
 ## Notes
@@ -141,6 +136,7 @@ Slicing is commonly used for data extraction
 It works on lists, strings, and other sequence types
 
 Understanding slicing helps when processing subsets of data
+
 ---
 
 ## Indexing and Slicing (Combined Example)
@@ -186,6 +182,7 @@ my_list[3][2][0] accesses the first string element
 Indexing and slicing can be combined for precise data access
 
 This approach is useful when working with nested and structured data
+
 ---
 
 
@@ -225,7 +222,8 @@ List concatenation creates a new list
 
 The len() function is commonly used to validate list size
 
-These operations are frequently used in real-world data processing
+These operations are frequently used in real-world data processing 
+
 ---
 
 ## Modifying and Deleting List Elements
