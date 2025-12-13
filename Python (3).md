@@ -1,6 +1,7 @@
+## Python Fundamentals Study (2025-12-12)
+---
 # Learning Goals (2025-12-12)
 
-## Topics Covered
 - Python list data type
 - Indexing and slicing
 - Operators
