@@ -1,4 +1,4 @@
-## Python Strings — Study Notes (2025-12-11)
+## Python Fundamentals Study (2025-12-11)
 
 ## Learning Goals
 
