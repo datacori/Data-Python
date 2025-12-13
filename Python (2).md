@@ -352,4 +352,5 @@ print(sentence)
 Currently studying data analysis 
 Recording progress from Python basics to real-world projects  
 E-mail : datacori00@gmail.com
+Blog : https://blog.naver.com/datacori/224106236284
 
