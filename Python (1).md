@@ -1,4 +1,4 @@
-# Data-Python
+## Python Fundamentals Study (2025-12-10)
 # Python Basics
 
 This project summarizes my Python learning goals and notes.
