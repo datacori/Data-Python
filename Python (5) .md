@@ -5,9 +5,10 @@
 
 Understand the Set data type
 
-Understand the Boolean (bool) data type
+Understand the Boolean (bool) data type 
 
 Practice writing functions and using modules
+
 ---
 
 ## Set Data Type (set)
@@ -18,9 +19,10 @@ Key Characteristics of Sets
 
 Created using the set keyword or curly braces {}
 
-Duplicates are not allowed
+Duplicates are not allowed 
 
 Unordered data structure (no index)
+
 ---
 
 ## Set Creation
