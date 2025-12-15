@@ -62,12 +62,6 @@ print(type(set2))
 <class 'set'>
 ```
 ---
-## Notes
-
-Sets are unordered collections.
-Sets do not allow duplicate elements.
-Sets are useful for removing duplicates and membership testing.
----
 
 ## Set operations (Union, Intersection, Difference)
 
@@ -257,11 +251,10 @@ else:
 False
 ```
 ---
-## Notes
-
 Any non-zero number is evaluated as True.
-0 is the only integer value evaluated as False.
+0 is the only integar value evaluated as False.
 This behavior is commonly used in conditions and loop control.
+
 ---
 
 ## bool() Function
