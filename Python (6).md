@@ -13,7 +13,9 @@ Improve function writing and modularization skills
 ## User Input (input())
 
 The input( ) function is used to receive input from the user.
+
 The text inside the parentheses is displayed as a prompt message.
+
 The function returns the user input as a string.
 
 ### Example
@@ -26,12 +28,14 @@ Cori
 ```
 ---
 All values returned by input() are of type str.
+
 To use numeric input, type conversion is required. - int(), float()
 
 ---
 ## Variable Assignment with input()
 
 The value returned by input() can be assigned to a variable.
+
 Regardless of what the user enters, the returned value is always a string(str).
 
 ### Assigning user input to a variable
@@ -55,7 +59,9 @@ Write your favorite number: 1
 ```
 ---
 str stands for sting data type.
+
 Even if a number is entered, input() returns a string
+
 Type conversion is required to use numeric values. - int(number)
 
 ---
@@ -63,8 +69,11 @@ Type conversion is required to use numeric values. - int(number)
 ## Type conversion : String to number
 
 Values returned by input() are always of type str.
+
 To perform numeric calculations, type conversion is required.
+
 int() converts a sting to an integer.
+
 float() converts a string to a floating-point number.
 
 ### String vs Integer Addition
@@ -89,7 +98,9 @@ print(int1 + int2)
 ```
 ---
 string1 + string2 performs string concatenation, resulting in 12.
+
 int1 + int2 performs numeric addition, resulting in 3.
+
 Proper type conversion is essential when working with user input.
 
 ---
@@ -97,6 +108,7 @@ Proper type conversion is essential when working with user input.
 ## Converting numbers to strings
 
 The str() function is used to convert numeric values into strings.
+
 This conversion is useful when combining numbers with text or formatting output.
 
 ### Example : integer to string conversion
@@ -117,13 +129,16 @@ print(type(str1))
 ```
 
 int 1 is an integer value. 
+
 After applying str(), the value remains visually the same, but its data type changes from int to str.
+
 This allows the value to be used in string concatenation or text-based output.
 
 ---
 ## Output with print()
 
 The print() function is used to display output to the console.
+
 Strings enclosed in quotation marks "" placed next to each other behave the same as using the + operator.
 
 ### Example: String concatenation
@@ -189,7 +204,11 @@ Fast Campus – Python Data Analysis for Beginners (Practice-Oriented)
 ## Author
 
 **RYU YEJIN**
+
 Learning Data Analysis 
+
 Recording my journey from Python basics to real-world projects
+
 📧 Email: datacori00@gmail.com
+
 Blog : https://blog.naver.com/datacori/224108597681
