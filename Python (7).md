@@ -184,7 +184,10 @@ Fast Campus – Practical Python Data Analysis Without Failure
 
 **RYU YEJIN**
 Data Analysis Learning Journey 
+
 From Python Basics to Real-World Projects
+
 📧 Email: datacori00@gmail.com
+
 Blog : https://blog.naver.com/datacori/224108640902
 
