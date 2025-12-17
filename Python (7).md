@@ -1,6 +1,6 @@
-# Python Fundamentals Study (2025-12-14)
+# Python Fundamentals Study (2025-12-16)
 ---
-## Learning Goals (251216)
+## Learning Goals 
 
 File input/output operations
 
